@@ -1,0 +1,469 @@
+﻿Year,District,Feeder School DBN,Feeder School Name,Count of Testers,Attempt Rate,Count of Offers,Offer Rate
+2016,2,02M104,J.H.S. 104 Simon Baruch ,195,100%,50,26%
+2017,2,02M104,J.H.S. 104 Simon Baruch ,251,62%,83,33%
+2018,2,02M104,J.H.S. 104 Simon Baruch ,260,67%,53,14%
+2019,2,02M104,J.H.S. 104 Simon Baruch ,217,56%,60,28%
+2020,2,02M104,J.H.S. 104 Simon Baruch ,226,59%,48,21%
+2016,2,02M114,East Side Middle School ,97,100%,63,65%
+2017,2,02M114,East Side Middle School ,102,70%,59,58%
+2018,2,02M114,East Side Middle School ,124,82%,75,49%
+2019,2,02M114,East Side Middle School ,115,75%,67,58%
+2020,2,02M114,East Side Middle School ,114,74%,63,55%
+2016,2,02M126,Manhattan Academy of Technology/Jacob Riis ,76,100%,29,38%
+2017,2,02M126,Manhattan Academy of Technology/Jacob Riis ,66,60%,16,24%
+2018,2,02M126,Manhattan Academy of Technology/Jacob Riis ,66,59%,18,16%
+2019,2,02M126,Manhattan Academy of Technology/Jacob Riis ,66,61%,20,30%
+2020,2,02M126,Manhattan Academy of Technology/Jacob Riis ,70,62%,25,36%
+2016,2,02M131,Sun Yat Sen Middle School ,57,100%,12,21%
+2017,2,02M131,Sun Yat Sen Middle School ,61,36%,17,28%
+2018,2,02M131,Sun Yat Sen Middle School ,54,39%,7,5%
+2019,2,02M131,Sun Yat Sen Middle School ,75,44%,7,9%
+2020,2,02M131,Sun Yat Sen Middle School ,74,51%,6,8%
+2016,2,02M167,J.H.S. 167 Robert F. Wagner ,283,100%,78,28%
+2017,2,02M167,J.H.S. 167 Robert F. Wagner ,228,52%,68,30%
+2018,2,02M167,J.H.S. 167 Robert F. Wagner ,258,60%,77,18%
+2019,2,02M167,J.H.S. 167 Robert F. Wagner ,269,57%,75,28%
+2020,2,02M167,J.H.S. 167 Robert F. Wagner ,266,59%,73,27%
+2016,2,02M177,Yorkville East Middle School ,3,100%,3,100%
+2017,2,02M177,Yorkville East Middle School ,29,59%,7,24%
+2018,2,02M177,Yorkville East Middle School ,42,51%,3,4%
+2019,2,02M177,Yorkville East Middle School ,28,37%,7,25%
+2020,2,02M177,Yorkville East Middle School ,29,38%,3,10%
+2016,2,02M217,P.S./I.S. 217 Roosevelt Island ,3,100%,3,100%
+2017,2,02M217,P.S./I.S. 217 Roosevelt Island ,3,17%,3,100%
+2018,2,02M217,P.S./I.S. 217 Roosevelt Island ,6,29%,3,14%
+2019,2,02M217,P.S./I.S. 217 Roosevelt Island ,11,38%,3,27%
+2020,2,02M217,P.S./I.S. 217 Roosevelt Island ,9,29%,3,33%
+2016,2,02M225,Ella Baker School ,9,100%,3,33%
+2017,2,02M225,Ella Baker School ,3,14%,3,100%
+2018,2,02M225,Ella Baker School ,3,14%,3,14%
+2019,2,02M225,Ella Baker School ,3,12%,3,100%
+2020,2,02M225,Ella Baker School ,3,27%,3,100%
+2016,2,02M255,M.S. 255 Salk School of Science ,105,100%,62,59%
+2017,2,02M255,M.S. 255 Salk School of Science ,110,87%,65,59%
+2018,2,02M255,M.S. 255 Salk School of Science ,108,82%,70,53%
+2019,2,02M255,M.S. 255 Salk School of Science ,105,80%,64,61%
+2020,2,02M255,M.S. 255 Salk School of Science ,101,77%,61,60%
+2016,2,02M260,The Clinton School ,21,100%,3,14%
+2017,2,02M260,The Clinton School ,21,23%,11,52%
+2018,2,02M260,The Clinton School ,36,38%,17,18%
+2019,2,02M260,The Clinton School ,25,26%,3,12%
+2020,2,02M260,The Clinton School ,37,38%,11,30%
+2016,2,02M276,Battery Park City School ,40,100%,13,33%
+2017,2,02M276,Battery Park City School ,54,57%,20,37%
+2018,2,02M276,Battery Park City School ,56,67%,22,26%
+2019,2,02M276,Battery Park City School ,56,60%,20,36%
+2020,2,02M276,Battery Park City School ,52,53%,16,31%
+2016,2,02M289,Hudson River Middle School ,53,100%,11,21%
+2017,2,02M289,Hudson River Middle School ,50,53%,3,6%
+2018,2,02M289,Hudson River Middle School ,47,52%,3,3%
+2019,2,02M289,Hudson River Middle School ,45,48%,8,18%
+2020,2,02M289,Hudson River Middle School ,53,54%,6,11%
+2020,2,02M297,M.S. 297 ,75,32%,6,8%
+2016,2,02M312,New York City Lab Middle School for Collaborative Studies ,162,100%,108,67%
+2017,2,02M312,New York City Lab Middle School for Collaborative Studies ,150,86%,112,75%
+2018,2,02M312,New York City Lab Middle School for Collaborative Studies ,163,90%,113,62%
+2019,2,02M312,New York City Lab Middle School for Collaborative Studies ,168,90%,124,74%
+2020,2,02M312,New York City Lab Middle School for Collaborative Studies ,163,88%,113,69%
+2016,2,02M347,The 47 American Sign Language & English Lower School ,3,100%,3,100%
+2017,2,02M347,The 47 American Sign Language & English Lower School ,3,43%,3,100%
+2018,2,02M347,The 47 American Sign Language & English Lower School ,3,33%,3,33%
+2019,2,02M347,The 47 American Sign Language & English Lower School ,3,14%,3,100%
+2020,2,02M347,The 47 American Sign Language & English Lower School ,3,25%,3,100%
+2016,2,02M397,Spruce Street School ,3,100%,3,100%
+2017,2,02M397,Spruce Street School ,3,100%,3,100%
+2018,2,02M397,Spruce Street School ,36,64%,10,18%
+2019,2,02M397,Spruce Street School ,29,47%,9,31%
+2020,2,02M397,Spruce Street School ,27,42%,3,11%
+2016,2,02M407,Institute for Collaborative Education ,22,100%,3,14%
+2017,2,02M407,Institute for Collaborative Education ,11,16%,3,27%
+2018,2,02M407,Institute for Collaborative Education ,21,28%,8,11%
+2019,2,02M407,Institute for Collaborative Education ,13,18%,3,23%
+2020,2,02M407,Institute for Collaborative Education ,7,9%,3,43%
+2016,2,02M408,Professional Performing Arts School ,3,100%,3,100%
+2017,2,02M408,Professional Performing Arts School ,10,33%,3,30%
+2018,2,02M408,Professional Performing Arts School ,9,27%,3,9%
+2019,2,02M408,Professional Performing Arts School ,8,22%,3,38%
+2020,2,02M408,Professional Performing Arts School ,14,25%,3,21%
+2016,2,02M413,School of the Future Middle and High School ,49,100%,14,29%
+2017,2,02M413,School of the Future Middle and High School ,30,34%,6,20%
+2018,2,02M413,School of the Future Middle and High School ,46,45%,15,15%
+2019,2,02M413,School of the Future Middle and High School ,46,43%,10,22%
+2020,2,02M413,School of the Future Middle and High School ,23,24%,6,26%
+2016,2,02M422,Quest to Learn ,51,100%,17,33%
+2017,2,02M422,Quest to Learn ,35,39%,7,20%
+2018,2,02M422,Quest to Learn ,33,34%,3,3%
+2019,2,02M422,Quest to Learn ,26,34%,3,12%
+2020,2,02M422,Quest to Learn ,13,22%,3,23%
+2016,2,02M442,"Ballet Tech, NYC Public School for Dance ",13,100%,3,23%
+2017,2,02M442,"Ballet Tech, NYC Public School for Dance ",10,53%,3,30%
+2018,2,02M442,"Ballet Tech, NYC Public School for Dance ",15,60%,3,12%
+2019,2,02M442,"Ballet Tech, NYC Public School for Dance ",12,55%,3,25%
+2020,2,02M442,"Ballet Tech, NYC Public School for Dance ",11,55%,3,27%
+2016,2,02M896,Lower Manhattan Community Middle School ,66,100%,13,20%
+2017,2,02M896,Lower Manhattan Community Middle School ,73,58%,13,18%
+2018,2,02M896,Lower Manhattan Community Middle School ,70,54%,8,6%
+2019,2,02M896,Lower Manhattan Community Middle School ,63,50%,7,11%
+2020,2,02M896,Lower Manhattan Community Middle School ,49,40%,3,6%
+2016,2,02M933,City Knoll Middle School ,3,100%,3,100%
+2017,2,02M933,City Knoll Middle School ,23,25%,3,13%
+2018,2,02M933,City Knoll Middle School ,17,22%,3,4%
+2019,2,02M933,City Knoll Middle School ,24,28%,3,13%
+2020,2,02M933,City Knoll Middle School ,10,17%,3,30%
+2016,10,10X003,P.S. 3 Raul Julia Micro Society ,13,100%,3,23%
+2017,10,10X003,P.S. 3 Raul Julia Micro Society ,14,50%,3,21%
+2018,10,10X003,P.S. 3 Raul Julia Micro Society ,13,27%,3,6%
+2019,10,10X003,P.S. 3 Raul Julia Micro Society ,8,26%,3,38%
+2020,10,10X003,P.S. 3 Raul Julia Micro Society ,6,21%,3,50%
+2016,10,10X015,P.S. X015 Institute for Environmental Learning ,28,100%,3,11%
+2017,10,10X015,P.S. X015 Institute for Environmental Learning ,44,66%,3,7%
+2018,10,10X015,P.S. X015 Institute for Environmental Learning ,27,48%,3,5%
+2019,10,10X015,P.S. X015 Institute for Environmental Learning ,31,54%,3,10%
+2020,10,10X015,P.S. X015 Institute for Environmental Learning ,34,60%,3,9%
+2016,10,10X020,"PS/MS 20 P.O.George J. Werdann, III ",34,100%,3,9%
+2017,10,10X020,"PS/MS 20 P.O.George J. Werdann, III ",33,37%,3,9%
+2018,10,10X020,"PS/MS 20 P.O.George J. Werdann, III ",42,35%,3,3%
+2019,10,10X020,"PS/MS 20 P.O.George J. Werdann, III ",33,28%,3,9%
+2020,10,10X020,"PS/MS 20 P.O.George J. Werdann, III ",24,21%,3,13%
+2016,10,10X037,P.S. X037 - Multiple Intelligence School ,11,100%,3,27%
+2017,10,10X037,P.S. X037 - Multiple Intelligence School ,9,13%,3,33%
+2018,10,10X037,P.S. X037 - Multiple Intelligence School ,6,9%,3,4%
+2019,10,10X037,P.S. X037 - Multiple Intelligence School ,10,22%,3,30%
+2020,10,10X037,P.S. X037 - Multiple Intelligence School ,12,19%,3,25%
+2016,10,10X045,Thomas C. Giordano Middle School 45 ,46,100%,3,7%
+2017,10,10X045,Thomas C. Giordano Middle School 45 ,32,14%,3,9%
+2018,10,10X045,Thomas C. Giordano Middle School 45 ,46,18%,3,1%
+2019,10,10X045,Thomas C. Giordano Middle School 45 ,45,19%,3,7%
+2020,10,10X045,Thomas C. Giordano Middle School 45 ,26,11%,3,12%
+2016,10,10X080,J.H.S. 080 The Mosholu Parkway ,52,100%,3,6%
+2017,10,10X080,J.H.S. 080 The Mosholu Parkway ,73,31%,3,4%
+2018,10,10X080,J.H.S. 080 The Mosholu Parkway ,51,22%,3,1%
+2019,10,10X080,J.H.S. 080 The Mosholu Parkway ,51,22%,3,6%
+2020,10,10X080,J.H.S. 080 The Mosholu Parkway ,39,17%,3,8%
+2016,10,10X095,P.S. 095 Sheila Mencher ,31,100%,3,10%
+2017,10,10X095,P.S. 095 Sheila Mencher ,34,22%,3,9%
+2018,10,10X095,P.S. 095 Sheila Mencher ,42,26%,3,2%
+2019,10,10X095,P.S. 095 Sheila Mencher ,56,35%,3,5%
+2020,10,10X095,P.S. 095 Sheila Mencher ,66,39%,3,5%
+2016,10,10X118,J.H.S. 118 William W. Niles ,177,100%,24,14%
+2017,10,10X118,J.H.S. 118 William W. Niles ,196,51%,27,14%
+2018,10,10X118,J.H.S. 118 William W. Niles ,270,64%,29,7%
+2019,10,10X118,J.H.S. 118 William W. Niles ,246,67%,17,7%
+2020,10,10X118,J.H.S. 118 William W. Niles ,242,64%,21,9%
+2016,10,10X141,Riverdale / Kingsbridge Academy ,84,100%,19,23%
+2017,10,10X141,Riverdale / Kingsbridge Academy ,109,42%,17,16%
+2018,10,10X141,Riverdale / Kingsbridge Academy ,75,30%,15,6%
+2019,10,10X141,Riverdale / Kingsbridge Academy ,84,35%,10,12%
+2020,10,10X141,Riverdale / Kingsbridge Academy ,84,31%,8,10%
+2016,10,10X206,I.S. 206 Ann Mersereau ,9,100%,3,33%
+2017,10,10X206,I.S. 206 Ann Mersereau ,6,8%,3,50%
+2018,10,10X206,I.S. 206 Ann Mersereau ,8,12%,3,4%
+2019,10,10X206,I.S. 206 Ann Mersereau ,9,12%,3,33%
+2020,10,10X206,I.S. 206 Ann Mersereau ,7,10%,3,43%
+2016,10,10X225,Theatre Arts Production Company School ,19,100%,3,16%
+2017,10,10X225,Theatre Arts Production Company School ,7,11%,3,43%
+2018,10,10X225,Theatre Arts Production Company School ,6,12%,3,6%
+2019,10,10X225,Theatre Arts Production Company School ,7,11%,3,43%
+2020,10,10X225,Theatre Arts Production Company School ,6,10%,3,50%
+2016,10,10X228,Jonas Bronck Academy ,52,100%,3,6%
+2017,10,10X228,Jonas Bronck Academy ,58,65%,3,5%
+2018,10,10X228,Jonas Bronck Academy ,64,71%,3,3%
+2019,10,10X228,Jonas Bronck Academy ,62,68%,3,5%
+2020,10,10X228,Jonas Bronck Academy ,61,69%,3,5%
+2016,10,10X243,West Bronx Academy for the Future ,12,100%,3,25%
+2017,10,10X243,West Bronx Academy for the Future ,18,20%,3,17%
+2018,10,10X243,West Bronx Academy for the Future ,18,19%,3,3%
+2019,10,10X243,West Bronx Academy for the Future ,12,14%,3,25%
+2020,10,10X243,West Bronx Academy for the Future ,14,14%,3,21%
+2016,10,10X244,The New School for Leadership and Journalism ,99,100%,3,3%
+2017,10,10X244,The New School for Leadership and Journalism ,73,26%,3,4%
+2018,10,10X244,The New School for Leadership and Journalism ,91,34%,3,1%
+2019,10,10X244,The New School for Leadership and Journalism ,76,26%,3,4%
+2020,10,10X244,The New School for Leadership and Journalism ,67,25%,3,4%
+2016,10,10X254,I.S. 254 ,18,100%,3,17%
+2017,10,10X254,I.S. 254 ,14,7%,3,21%
+2018,10,10X254,I.S. 254 ,13,9%,3,2%
+2019,10,10X254,I.S. 254 ,15,9%,3,20%
+2020,10,10X254,I.S. 254 ,17,9%,3,18%
+2016,10,10X279,"P.S. 279 Captain Manuel Rivera, Jr. ",23,100%,3,13%
+2017,10,10X279,"P.S. 279 Captain Manuel Rivera, Jr. ",25,20%,3,12%
+2018,10,10X279,"P.S. 279 Captain Manuel Rivera, Jr. ",38,27%,3,2%
+2019,10,10X279,"P.S. 279 Captain Manuel Rivera, Jr. ",29,23%,3,10%
+2020,10,10X279,"P.S. 279 Captain Manuel Rivera, Jr. ",27,21%,3,11%
+2016,10,10X280,P.S./M.S. 280 Mosholu Parkway ,34,100%,3,9%
+2017,10,10X280,P.S./M.S. 280 Mosholu Parkway ,37,37%,3,8%
+2018,10,10X280,P.S./M.S. 280 Mosholu Parkway ,41,41%,3,3%
+2019,10,10X280,P.S./M.S. 280 Mosholu Parkway ,28,23%,3,11%
+2020,10,10X280,P.S./M.S. 280 Mosholu Parkway ,22,22%,3,14%
+2016,10,10X308,Bronx Dance Academy School ,24,100%,3,13%
+2017,10,10X308,Bronx Dance Academy School ,40,43%,3,8%
+2018,10,10X308,Bronx Dance Academy School ,19,24%,3,4%
+2019,10,10X308,Bronx Dance Academy School ,20,24%,3,15%
+2020,10,10X308,Bronx Dance Academy School ,13,15%,3,23%
+2016,10,10X315,P.S. 315 Lab School ,21,100%,3,14%
+2017,10,10X315,P.S. 315 Lab School ,11,44%,3,27%
+2018,10,10X315,P.S. 315 Lab School ,12,40%,3,10%
+2019,10,10X315,P.S. 315 Lab School ,14,35%,3,21%
+2020,10,10X315,P.S. 315 Lab School ,14,45%,3,21%
+2016,10,10X331,The Bronx School of Young Leaders ,21,100%,3,14%
+2017,10,10X331,The Bronx School of Young Leaders ,25,16%,3,12%
+2018,10,10X331,The Bronx School of Young Leaders ,35,27%,3,2%
+2019,10,10X331,The Bronx School of Young Leaders ,32,22%,3,9%
+2020,10,10X331,The Bronx School of Young Leaders ,35,25%,3,9%
+2016,10,10X342,International School for Liberal Arts ,3,100%,3,100%
+2017,10,10X342,International School for Liberal Arts ,3,5%,3,100%
+2018,10,10X342,International School for Liberal Arts ,3,6%,3,6%
+2019,10,10X342,International School for Liberal Arts ,7,14%,3,43%
+2020,10,10X342,International School for Liberal Arts ,7,12%,3,43%
+2016,10,10X363,Academy For Personal Leadership And Excellence ,42,100%,3,7%
+2017,10,10X363,Academy For Personal Leadership And Excellence ,22,14%,3,14%
+2018,10,10X363,Academy For Personal Leadership And Excellence ,45,25%,3,2%
+2019,10,10X363,Academy For Personal Leadership And Excellence ,48,24%,3,6%
+2020,10,10X363,Academy For Personal Leadership And Excellence ,50,16%,3,6%
+2016,10,10X368,In-Tech Academy ,27,100%,3,11%
+2017,10,10X368,In-Tech Academy ,34,19%,3,9%
+2018,10,10X368,In-Tech Academy ,27,17%,3,2%
+2019,10,10X368,In-Tech Academy ,28,16%,3,11%
+2020,10,10X368,In-Tech Academy ,27,17%,3,11%
+2016,10,10X390,M.S. 390 ,26,100%,3,12%
+2017,10,10X390,M.S. 390 ,32,21%,3,9%
+2018,10,10X390,M.S. 390 ,24,15%,3,2%
+2019,10,10X390,M.S. 390 ,21,12%,3,14%
+2020,10,10X390,M.S. 390 ,37,21%,3,8%
+2016,10,10X391,The Angelo Patri Middle School ,15,100%,3,20%
+2017,10,10X391,The Angelo Patri Middle School ,11,6%,3,27%
+2018,10,10X391,The Angelo Patri Middle School ,17,9%,3,2%
+2019,10,10X391,The Angelo Patri Middle School ,12,8%,3,25%
+2020,10,10X391,The Angelo Patri Middle School ,9,5%,3,33%
+2016,10,10X447,Creston Academy ,28,100%,3,11%
+2017,10,10X447,Creston Academy ,21,13%,3,14%
+2018,10,10X447,Creston Academy ,29,18%,3,2%
+2019,10,10X447,Creston Academy ,32,19%,3,9%
+2020,10,10X447,Creston Academy ,37,24%,3,8%
+2016,20,20K030,P.S./I.S. 30 Mary White Ovington ,62,100%,6,10%
+2017,20,20K030,P.S./I.S. 30 Mary White Ovington ,56,42%,6,11%
+2018,20,20K030,P.S./I.S. 30 Mary White Ovington ,51,41%,6,5%
+2019,20,20K030,P.S./I.S. 30 Mary White Ovington ,48,38%,11,23%
+2020,20,20K030,P.S./I.S. 30 Mary White Ovington ,52,39%,8,15%
+2016,20,20K062,J.H.S. 062 Ditmas ,117,100%,7,6%
+2017,20,20K062,J.H.S. 062 Ditmas ,136,33%,8,6%
+2018,20,20K062,J.H.S. 062 Ditmas ,104,26%,3,1%
+2019,20,20K062,J.H.S. 062 Ditmas ,103,23%,3,3%
+2020,20,20K062,J.H.S. 062 Ditmas ,97,25%,7,7%
+2016,20,20K104,P.S./I.S. 104 The Fort Hamilton School ,74,100%,11,15%
+2017,20,20K104,P.S./I.S. 104 The Fort Hamilton School ,73,43%,7,10%
+2018,20,20K104,P.S./I.S. 104 The Fort Hamilton School ,87,51%,11,6%
+2019,20,20K104,P.S./I.S. 104 The Fort Hamilton School ,64,42%,10,16%
+2020,20,20K104,P.S./I.S. 104 The Fort Hamilton School ,62,38%,7,11%
+2016,20,20K163,P.S. 163 Bath Beach ,29,100%,3,10%
+2017,20,20K163,P.S. 163 Bath Beach ,38,51%,3,8%
+2018,20,20K163,P.S. 163 Bath Beach ,39,43%,7,8%
+2019,20,20K163,P.S. 163 Bath Beach ,36,41%,3,8%
+2020,20,20K163,P.S. 163 Bath Beach ,29,41%,3,10%
+2016,20,20K180,The SEEALL Academy ,90,100%,17,19%
+2017,20,20K180,The SEEALL Academy ,94,55%,19,20%
+2018,20,20K180,The SEEALL Academy ,113,65%,38,22%
+2019,20,20K180,The SEEALL Academy ,84,54%,26,31%
+2020,20,20K180,The SEEALL Academy ,81,55%,24,30%
+2016,20,20K187,The Christa McAuliffe School\I.S. 187 ,341,100%,296,87%
+2017,20,20K187,The Christa McAuliffe School\I.S. 187 ,319,93%,268,84%
+2018,20,20K187,The Christa McAuliffe School\I.S. 187 ,251,90%,205,74%
+2019,20,20K187,The Christa McAuliffe School\I.S. 187 ,239,91%,195,82%
+2020,20,20K187,The Christa McAuliffe School\I.S. 187 ,293,88%,214,73%
+2016,20,20K192,P.S. 192 - The Magnet School for Math and Science Inquiry ,14,100%,3,21%
+2017,20,20K192,P.S. 192 - The Magnet School for Math and Science Inquiry ,6,12%,3,50%
+2018,20,20K192,P.S. 192 - The Magnet School for Math and Science Inquiry ,14,21%,3,4%
+2019,20,20K192,P.S. 192 - The Magnet School for Math and Science Inquiry ,13,21%,3,23%
+2020,20,20K192,P.S. 192 - The Magnet School for Math and Science Inquiry ,17,28%,3,18%
+2016,20,20K201,J.H.S. 201 The Dyker Heights ,298,100%,116,39%
+2017,20,20K201,J.H.S. 201 The Dyker Heights ,296,59%,127,43%
+2018,20,20K201,J.H.S. 201 The Dyker Heights ,338,64%,101,19%
+2019,20,20K201,J.H.S. 201 The Dyker Heights ,349,66%,137,39%
+2020,20,20K201,J.H.S. 201 The Dyker Heights ,345,58%,116,34%
+2016,20,20K220,J.H.S. 220 John J. Pershing ,203,100%,32,16%
+2017,20,20K220,J.H.S. 220 John J. Pershing ,199,40%,27,14%
+2018,20,20K220,J.H.S. 220 John J. Pershing ,181,34%,27,5%
+2019,20,20K220,J.H.S. 220 John J. Pershing ,176,35%,21,12%
+2020,20,20K220,J.H.S. 220 John J. Pershing ,157,32%,19,12%
+2016,20,20K223,J.H.S. 223 The Montauk ,124,100%,13,10%
+2017,20,20K223,J.H.S. 223 The Montauk ,132,39%,16,12%
+2018,20,20K223,J.H.S. 223 The Montauk ,142,44%,19,6%
+2019,20,20K223,J.H.S. 223 The Montauk ,140,40%,17,12%
+2020,20,20K223,J.H.S. 223 The Montauk ,119,40%,13,11%
+2016,20,20K227,J.H.S. 227 Edward B. Shallow ,199,100%,23,12%
+2017,20,20K227,J.H.S. 227 Edward B. Shallow ,196,43%,22,11%
+2018,20,20K227,J.H.S. 227 Edward B. Shallow ,197,43%,25,5%
+2019,20,20K227,J.H.S. 227 Edward B. Shallow ,222,43%,17,8%
+2020,20,20K227,J.H.S. 227 Edward B. Shallow ,210,34%,20,10%
+2016,20,20K229,P.S. 229 Dyker ,62,100%,15,24%
+2017,20,20K229,P.S. 229 Dyker ,58,55%,14,24%
+2018,20,20K229,P.S. 229 Dyker ,93,72%,20,15%
+2019,20,20K229,P.S. 229 Dyker ,69,59%,25,36%
+2020,20,20K229,P.S. 229 Dyker ,82,64%,20,24%
+2016,20,20K259,J.H.S. 259 William Mckinley ,253,100%,93,37%
+2017,20,20K259,J.H.S. 259 William Mckinley ,322,57%,83,26%
+2018,20,20K259,J.H.S. 259 William Mckinley ,309,53%,86,15%
+2019,20,20K259,J.H.S. 259 William Mckinley ,344,54%,94,27%
+2020,20,20K259,J.H.S. 259 William Mckinley ,325,53%,78,24%
+2016,20,20K609,Urban Assembly School for Criminal Justice ,13,100%,3,23%
+2017,20,20K609,Urban Assembly School for Criminal Justice ,21,30%,3,14%
+2018,20,20K609,Urban Assembly School for Criminal Justice ,24,31%,3,4%
+2019,20,20K609,Urban Assembly School for Criminal Justice ,12,14%,3,25%
+2020,20,20K609,Urban Assembly School for Criminal Justice ,14,18%,3,21%
+2016,20,20K686,Brooklyn School of Inquiry ,3,100%,3,100%
+2017,20,20K686,Brooklyn School of Inquiry ,58,94%,42,72%
+2018,20,20K686,Brooklyn School of Inquiry ,80,94%,46,54%
+2019,20,20K686,Brooklyn School of Inquiry ,52,91%,30,58%
+2020,20,20K686,Brooklyn School of Inquiry ,48,89%,19,40%
+2016,24,24Q005,I.S. 5 - The Walter Crowley Intermediate School ,233,100%,55,24%
+2017,24,24Q005,I.S. 5 - The Walter Crowley Intermediate School ,265,44%,54,20%
+2018,24,24Q005,I.S. 5 - The Walter Crowley Intermediate School ,264,42%,40,6%
+2019,24,24Q005,I.S. 5 - The Walter Crowley Intermediate School ,229,37%,43,19%
+2020,24,24Q005,I.S. 5 - The Walter Crowley Intermediate School ,239,41%,35,15%
+2016,24,24Q049,P.S. 049 Dorothy Bonawit Kole ,44,100%,7,16%
+2017,24,24Q049,P.S. 049 Dorothy Bonawit Kole ,50,38%,9,18%
+2018,24,24Q049,P.S. 049 Dorothy Bonawit Kole ,43,32%,14,11%
+2019,24,24Q049,P.S. 049 Dorothy Bonawit Kole ,51,35%,9,18%
+2020,24,24Q049,P.S. 049 Dorothy Bonawit Kole ,47,34%,8,17%
+2016,24,24Q061,I.S. 061 Leonardo Da Vinci ,106,100%,9,8%
+2017,24,24Q061,I.S. 061 Leonardo Da Vinci ,82,11%,3,4%
+2018,24,24Q061,I.S. 061 Leonardo Da Vinci ,93,13%,3,0%
+2019,24,24Q061,I.S. 061 Leonardo Da Vinci ,92,12%,3,3%
+2020,24,24Q061,I.S. 061 Leonardo Da Vinci ,113,15%,3,3%
+2016,24,24Q073,I.S. 73 - The Frank Sansivieri Intermediate School ,265,100%,44,17%
+2017,24,24Q073,I.S. 73 - The Frank Sansivieri Intermediate School ,357,49%,47,13%
+2018,24,24Q073,I.S. 73 - The Frank Sansivieri Intermediate School ,394,51%,73,9%
+2019,24,24Q073,I.S. 73 - The Frank Sansivieri Intermediate School ,334,48%,50,15%
+2020,24,24Q073,I.S. 73 - The Frank Sansivieri Intermediate School ,369,53%,61,17%
+2016,24,24Q077,I.S. 077 ,71,100%,3,4%
+2017,24,24Q077,I.S. 077 ,73,22%,3,4%
+2018,24,24Q077,I.S. 077 ,61,18%,3,1%
+2019,24,24Q077,I.S. 077 ,53,15%,3,6%
+2020,24,24Q077,I.S. 077 ,60,18%,3,5%
+2016,24,24Q087,P.S./I.S. 087 Middle Village ,8,100%,3,38%
+2017,24,24Q087,P.S./I.S. 087 Middle Village ,11,24%,3,27%
+2018,24,24Q087,P.S./I.S. 087 Middle Village ,12,16%,3,4%
+2019,24,24Q087,P.S./I.S. 087 Middle Village ,9,11%,3,33%
+2020,24,24Q087,P.S./I.S. 087 Middle Village ,9,17%,3,33%
+2016,24,24Q093,I.S. 093 Ridgewood ,72,100%,3,4%
+2017,24,24Q093,I.S. 093 Ridgewood ,74,19%,9,12%
+2018,24,24Q093,I.S. 093 Ridgewood ,78,21%,3,1%
+2019,24,24Q093,I.S. 093 Ridgewood ,92,25%,7,8%
+2020,24,24Q093,I.S. 093 Ridgewood ,57,15%,3,5%
+2016,24,24Q102,P.S. 102 Bayview ,56,100%,14,25%
+2017,24,24Q102,P.S. 102 Bayview ,63,56%,9,14%
+2018,24,24Q102,P.S. 102 Bayview ,67,47%,17,12%
+2019,24,24Q102,P.S. 102 Bayview ,71,46%,20,28%
+2020,24,24Q102,P.S. 102 Bayview ,72,50%,14,19%
+2016,24,24Q113,P.S./I.S. 113 Anthony J. Pranzo ,28,100%,3,11%
+2017,24,24Q113,P.S./I.S. 113 Anthony J. Pranzo ,26,23%,3,12%
+2018,24,24Q113,P.S./I.S. 113 Anthony J. Pranzo ,26,20%,3,2%
+2019,24,24Q113,P.S./I.S. 113 Anthony J. Pranzo ,15,15%,3,20%
+2020,24,24Q113,P.S./I.S. 113 Anthony J. Pranzo ,22,22%,3,14%
+2016,24,24Q119,I.S. 119 The Glendale ,135,100%,63,47%
+2017,24,24Q119,I.S. 119 The Glendale ,120,52%,54,45%
+2018,24,24Q119,I.S. 119 The Glendale ,104,47%,59,27%
+2019,24,24Q119,I.S. 119 The Glendale ,85,48%,33,39%
+2020,24,24Q119,I.S. 119 The Glendale ,87,39%,31,36%
+2016,24,24Q125,I.S. 125 Thom J. McCann Woodside ,258,100%,32,12%
+2017,24,24Q125,I.S. 125 Thom J. McCann Woodside ,293,50%,31,11%
+2018,24,24Q125,I.S. 125 Thom J. McCann Woodside ,272,50%,34,6%
+2019,24,24Q125,I.S. 125 Thom J. McCann Woodside ,209,36%,29,14%
+2020,24,24Q125,I.S. 125 Thom J. McCann Woodside ,199,34%,22,11%
+2016,24,24Q128,"P.S. 128 The Lorraine Tuzzo, Juniper Valley Elementary School ",32,100%,7,22%
+2017,24,24Q128,"P.S. 128 The Lorraine Tuzzo, Juniper Valley Elementary School ",36,36%,6,17%
+2018,24,24Q128,"P.S. 128 The Lorraine Tuzzo, Juniper Valley Elementary School ",46,39%,9,8%
+2019,24,24Q128,"P.S. 128 The Lorraine Tuzzo, Juniper Valley Elementary School ",30,30%,3,10%
+2020,24,24Q128,"P.S. 128 The Lorraine Tuzzo, Juniper Valley Elementary School ",41,33%,3,7%
+2016,24,24Q311,Corona Arts & Sciences Academy ,16,100%,3,19%
+2017,24,24Q311,Corona Arts & Sciences Academy ,3,3%,3,100%
+2018,24,24Q311,Corona Arts & Sciences Academy ,16,13%,3,3%
+2019,24,24Q311,Corona Arts & Sciences Academy ,28,10%,3,11%
+2020,24,24Q311,Corona Arts & Sciences Academy ,25,8%,3,12%
+2016,24,24Q560,"Robert F. Wagner, Jr. Secondary School for Arts and Technology ",18,100%,3,17%
+2017,24,24Q560,"Robert F. Wagner, Jr. Secondary School for Arts and Technology ",15,48%,3,20%
+2018,24,24Q560,"Robert F. Wagner, Jr. Secondary School for Arts and Technology ",35,70%,3,6%
+2019,24,24Q560,"Robert F. Wagner, Jr. Secondary School for Arts and Technology ",38,63%,9,24%
+2020,24,24Q560,"Robert F. Wagner, Jr. Secondary School for Arts and Technology ",31,58%,10,32%
+2016,31,31R002,I.S. R002 George L. Egbert ,76,100%,11,14%
+2017,31,31R002,I.S. R002 George L. Egbert ,80,27%,8,10%
+2018,31,31R002,I.S. R002 George L. Egbert ,75,26%,3,1%
+2019,31,31R002,I.S. R002 George L. Egbert ,86,26%,13,15%
+2020,31,31R002,I.S. R002 George L. Egbert ,101,29%,11,11%
+2016,31,31R007,I.S. 007 Elias Bernstein ,136,100%,22,16%
+2017,31,31R007,I.S. 007 Elias Bernstein ,126,32%,20,16%
+2018,31,31R007,I.S. 007 Elias Bernstein ,129,33%,22,6%
+2019,31,31R007,I.S. 007 Elias Bernstein ,118,31%,22,19%
+2020,31,31R007,I.S. 007 Elias Bernstein ,101,25%,12,12%
+2016,31,31R024,I.S. 024 Myra S. Barnes ,179,100%,29,16%
+2017,31,31R024,I.S. 024 Myra S. Barnes ,160,35%,22,14%
+2018,31,31R024,I.S. 024 Myra S. Barnes ,132,34%,11,3%
+2019,31,31R024,I.S. 024 Myra S. Barnes ,156,34%,27,17%
+2020,31,31R024,I.S. 024 Myra S. Barnes ,142,32%,13,9%
+2016,31,31R027,I.S. 027 Anning S. Prall ,95,100%,22,23%
+2017,31,31R027,I.S. 027 Anning S. Prall ,99,28%,24,24%
+2018,31,31R027,I.S. 027 Anning S. Prall ,77,23%,14,4%
+2019,31,31R027,I.S. 027 Anning S. Prall ,73,21%,12,16%
+2020,31,31R027,I.S. 027 Anning S. Prall ,85,26%,10,12%
+2016,31,31R028,The Eagle Academy for Young Men of Staten Island ,3,100%,3,100%
+2017,31,31R028,The Eagle Academy for Young Men of Staten Island ,11,19%,3,27%
+2018,31,31R028,The Eagle Academy for Young Men of Staten Island ,18,26%,3,4%
+2019,31,31R028,The Eagle Academy for Young Men of Staten Island ,11,19%,3,27%
+2020,31,31R028,The Eagle Academy for Young Men of Staten Island ,8,11%,3,38%
+2016,31,31R034,I.S. 034 Tottenville ,100,100%,12,12%
+2017,31,31R034,I.S. 034 Tottenville ,91,23%,14,15%
+2018,31,31R034,I.S. 034 Tottenville ,81,21%,8,2%
+2019,31,31R034,I.S. 034 Tottenville ,82,24%,7,9%
+2020,31,31R034,I.S. 034 Tottenville ,74,20%,7,9%
+2016,31,31R048,P.S. 048 William G. Wilcox ,49,100%,11,22%
+2017,31,31R048,P.S. 048 William G. Wilcox ,47,48%,6,13%
+2018,31,31R048,P.S. 048 William G. Wilcox ,70,59%,9,8%
+2019,31,31R048,P.S. 048 William G. Wilcox ,41,44%,8,20%
+2020,31,31R048,P.S. 048 William G. Wilcox ,59,47%,7,12%
+2016,31,31R049,I.S. 49 Berta A. Dreyfus ,44,100%,3,7%
+2017,31,31R049,I.S. 49 Berta A. Dreyfus ,43,17%,3,7%
+2018,31,31R049,I.S. 49 Berta A. Dreyfus ,42,17%,3,1%
+2019,31,31R049,I.S. 49 Berta A. Dreyfus ,32,15%,3,9%
+2020,31,31R049,I.S. 49 Berta A. Dreyfus ,25,14%,3,12%
+2016,31,31R051,I.S. 051 Edwin Markham ,63,100%,3,5%
+2017,31,31R051,I.S. 051 Edwin Markham ,129,32%,8,6%
+2018,31,31R051,I.S. 051 Edwin Markham ,101,23%,6,1%
+2019,31,31R051,I.S. 051 Edwin Markham ,112,24%,3,3%
+2020,31,31R051,I.S. 051 Edwin Markham ,53,16%,3,6%
+2016,31,31R061,I.S. 061 William A Morris ,60,100%,3,5%
+2017,31,31R061,I.S. 061 William A Morris ,66,17%,3,5%
+2018,31,31R061,I.S. 061 William A Morris ,40,12%,3,1%
+2019,31,31R061,I.S. 061 William A Morris ,47,16%,3,6%
+2020,31,31R061,I.S. 061 William A Morris ,36,11%,3,8%
+2016,31,31R063,Marsh Avenue School for Expeditionary Learning ,60,100%,11,18%
+2017,31,31R063,Marsh Avenue School for Expeditionary Learning ,49,35%,7,14%
+2018,31,31R063,Marsh Avenue School for Expeditionary Learning ,70,45%,7,4%
+2019,31,31R063,Marsh Avenue School for Expeditionary Learning ,52,36%,3,6%
+2020,31,31R063,Marsh Avenue School for Expeditionary Learning ,50,34%,3,6%
+2016,31,31R072,I.S. 072 Rocco Laurie ,121,100%,19,16%
+2017,31,31R072,I.S. 072 Rocco Laurie ,137,31%,18,13%
+2018,31,31R072,I.S. 072 Rocco Laurie ,139,30%,26,6%
+2019,31,31R072,I.S. 072 Rocco Laurie ,145,33%,21,14%
+2020,31,31R072,I.S. 072 Rocco Laurie ,159,31%,13,8%
+2016,31,31R075,I.S. 075 Frank D. Paulo ,142,100%,43,30%
+2017,31,31R075,I.S. 075 Frank D. Paulo ,157,31%,52,33%
+2018,31,31R075,I.S. 075 Frank D. Paulo ,153,35%,46,11%
+2019,31,31R075,I.S. 075 Frank D. Paulo ,143,31%,38,27%
+2020,31,31R075,I.S. 075 Frank D. Paulo ,136,30%,21,15%
+2016,31,31R080,The Michael J. Petrides School ,24,100%,6,25%
+2017,31,31R080,The Michael J. Petrides School ,24,26%,3,13%
+2018,31,31R080,The Michael J. Petrides School ,22,24%,3,3%
+2019,31,31R080,The Michael J. Petrides School ,24,25%,3,13%
+2020,31,31R080,The Michael J. Petrides School ,26,28%,3,12%
+2016,31,31R861,Staten Island School of Civic Leadership ,41,100%,3,7%
+2017,31,31R861,Staten Island School of Civic Leadership ,33,34%,3,9%
+2018,31,31R861,Staten Island School of Civic Leadership ,34,35%,3,3%
+2019,31,31R861,Staten Island School of Civic Leadership ,36,38%,3,8%
+2020,31,31R861,Staten Island School of Civic Leadership ,20,22%,3,15%
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
