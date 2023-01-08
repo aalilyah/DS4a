@@ -1,4 +1,4 @@
-﻿District,School DBN,School Name,School Year,Attendence Rate,Absense Rate
+﻿District,DBN,School,Year,Attendence Rate,Absense Rate
 2,02M104,J.H.S. 104 Simon Baruch ,2016,0.960969778,0.039030222
 2,02M104,J.H.S. 104 Simon Baruch ,2017,0.959409159,0.040590841
 2,02M104,J.H.S. 104 Simon Baruch ,2018,0.962373294,0.037626706
@@ -381,8 +381,8 @@
 20,20K686,Brooklyn School of Inquiry ,2019,0.956710782,0.043289218
 20,20K686,Brooklyn School of Inquiry ,2020,0.948497254,0.051388758
 20,20K686,Brooklyn School of Inquiry ,2021,0.990498906,0.009501094
-20,20K936,M.S. 936 ,2019,n/a,n/a
-20,20K936,M.S. 936 ,2020,n/a,n/a
+20,20K936,M.S. 936 ,2019,,
+20,20K936,M.S. 936 ,2020,,
 20,20K936,M.S. 936 ,2021,0.9635389,0.0364611
 24,24Q005,I.S. 5 - The Walter Crowley Intermediate School ,2016,0.965889303,0.034110697
 24,24Q005,I.S. 5 - The Walter Crowley Intermediate School ,2017,0.964634745,0.035365255
